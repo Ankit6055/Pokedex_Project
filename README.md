@@ -1,6 +1,6 @@
 # Pokedex
 
-Welcome to the Pokédex project! Explore the world of Pokémon with this web-based Pokédex, where you can search for any Pokémon and view detailed information about it. Whether you're a seasoned Pokémon Trainer or just starting your journey, the Pokédex has everything you need to enhance your Pokémon knowledge.
+Welcome to the Pokédex project! Explore the world of Pokémon with this web-based Pokédex, where you can search for any Pokémon and view detailed information about it. The Pokédex has everything you need to enhance your Pokémon knowledge.
 
 ## Features
 
